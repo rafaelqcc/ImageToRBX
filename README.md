@@ -34,7 +34,7 @@ pip install -r requirements.txt
 ```
 
 # Output example
-![alt text](https://github.com/rafaelqcc/ImageToRBX/blob/main/examples/example-1.jpg?raw=true)
+![alt text](https://github.com/rafaelqcc/ImageToRBX/blob/master/examples/example-1.jpg?raw=true)
 
 # Warning
 > For educational purposes only
